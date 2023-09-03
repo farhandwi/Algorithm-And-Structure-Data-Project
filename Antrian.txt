@@ -1,0 +1,4 @@
+Nomor Antrian		Nomor Plat		ID Tinkat		ID Tree		Jenis Kendaraan
+
+2			P 1111 UI		1			1000			Honda Astrea
+4			P 6092 UI		2			600			Yamaha Jupiter
